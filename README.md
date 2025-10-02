@@ -4,7 +4,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo)
-## 📸 Screenshots
+## 📸Some Screenshots
 
 ### 📱 Mobile App (Client & Driver)
 
@@ -56,7 +56,9 @@
 <p align="center">
   <img src="screenShots/dash/settings.png" width="400"/>
 </p>
-**Description:**  
+
+
+### Description  
 Viaje Rápido is a full-stack Uber-like ride-hailing application, designed to provide a seamless and intuitive experience for both clients and drivers within a single mobile app. The app combines real-time ride management, communication, and analytics to deliver a complete mobility solution.
 
 The system includes:
