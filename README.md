@@ -122,12 +122,4 @@ An admin dashboard (React + TailwindCSS) for managing rides, users, drivers, and
 - Ensure seamless **integration of maps, notifications, live ride status, and payments**.
 
 
-## 🚀 Quick Start
 
-> **Note:** The app repo is private. This is a public documentation guide.
-
-### 1. Clone the repository (replace with your private repo URL)
-```bash
-git clone <YOUR_PRIVATE_REPO_URL>
-cd viaje-rapido-app
-npm install
