@@ -16,20 +16,20 @@
 
 <p align="center">
   <img src="screenShots/mobile/selectDriver.jpg" width="200"/>
-  <img src="screenShots/mobile/confirmRide.jpg" width="200"/>
+  <img src="screenShots/mobile/bookRide.jpg" width="200"/>
   <img src="screenShots/mobile/findRide.jpg" width="200"/>
 </p>
 
 <p align="center">
-  <img src="screenShots/mobile/waitForDriverRes.jpg" width="200"/>
+  <img src="screenShots/mobile/waitDriverResponse.jpg" width="200"/>
   <img src="screenShots/mobile/oopsRejectAuto.jpg" width="200"/>
+   <img src="screenShots/mobile/coversation.jpg" width="200"/>
   <img src="screenShots/mobile/chat.jpg" width="200"/>
 </p>
 
 <p align="center">
   <img src="screenShots/mobile/onLinePayment.jpg" width="200"/>
   <img src="screenShots/mobile/giveFeedback.jpg" width="200"/>
-  <img src="screenShots/mobile/RideCompleted.jpg" width="200"/>
 </p>
 
 <p align="center">
