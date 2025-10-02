@@ -9,52 +9,52 @@
 ### 📱 Mobile App (Client & Driver)
 
 <p align="center">
-  <img src="screenshots/mobile/welcomeClient.jpg" width="200"/>
-  <img src="screenshots/mobile/welcomeDriver.jpg" width="200"/>
-  <img src="screenshots/mobile/searchPlace.jpg" width="200"/>
+  <img src="screenShots/mobile/welcomeClient.jpg" width="200"/>
+  <img src="screenShots/mobile/welcomeDriver.jpg" width="200"/>
+  <img src="screenShots/mobile/searchPlace.jpg" width="200"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/mobile/selectDriver.jpg" width="200"/>
-  <img src="screenshots/mobile/confirmRide.jpg" width="200"/>
-  <img src="screenshots/mobile/findRide.jpg" width="200"/>
+  <img src="screenShots/mobile/selectDriver.jpg" width="200"/>
+  <img src="screenShots/mobile/confirmRide.jpg" width="200"/>
+  <img src="screenShots/mobile/findRide.jpg" width="200"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/mobile/waitForDriverRes.jpg" width="200"/>
-  <img src="screenshots/mobile/oopsRejectAuto.jpg" width="200"/>
-  <img src="screenshots/mobile/chat.jpg" width="200"/>
+  <img src="screenShots/mobile/waitForDriverRes.jpg" width="200"/>
+  <img src="screenShots/mobile/oopsRejectAuto.jpg" width="200"/>
+  <img src="screenShots/mobile/chat.jpg" width="200"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/mobile/onLinePayment.jpg" width="200"/>
-  <img src="screenshots/mobile/giveFeedback.jpg" width="200"/>
-  <img src="screenshots/mobile/RideCompleted.jpg" width="200"/>
+  <img src="screenShots/mobile/onLinePayment.jpg" width="200"/>
+  <img src="screenShots/mobile/giveFeedback.jpg" width="200"/>
+  <img src="screenShots/mobile/RideCompleted.jpg" width="200"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/mobile/historyRides.jpg" width="200"/>
+  <img src="screenShots/mobile/historyRides.jpg" width="200"/>
 </p>
 
 
 ### 🖥️ Admin Dashboard
 
 <p align="center">
-  <img src="screenshots/dash/dash.png" width="400"/>
+  <img src="screenShots/dash/dash.png" width="400"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/dash/driversTable.png" width="400"/>
-  <img src="screenshots/dash/editDriver.png" width="400"/>
+  <img src="screenShots/dash/driversTable.png" width="400"/>
+  <img src="screenShots/dash/editDriver.png" width="400"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/dash/ridesTable.png" width="400"/>
-  <img src="screenshots/dash/rideDetails.png" width="400"/>
+  <img src="screenShots/dash/ridesTable.png" width="400"/>
+  <img src="screenShots/dash/rideDetails.png" width="400"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/dash/settings.png" width="400"/>
+  <img src="screenShots/dash/settings.png" width="400"/>
 </p>
 **Description:**  
 Viaje Rápido is a full-stack Uber-like ride-hailing application, designed to provide a seamless and intuitive experience for both clients and drivers within a single mobile app. The app combines real-time ride management, communication, and analytics to deliver a complete mobility solution.
