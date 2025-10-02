@@ -8,9 +8,9 @@
 
 ### Mobile App (Client & Driver)
 <p align="center">
-  <img src="screenshots/mobile/confirmRide.png" width="250"/>
-  <img src="screenshots/mobile/chat.png" width="250"/>
-  <img src="screenshots/mobile/RideCompleted.png" width="250"/>
+  <img src="screenShots/mobile/confirmRide.png" width="250"/>
+  <img src="screenShots/mobile/chat.png" width="250"/>
+  <img src="screenShots/mobile/RideCompleted.png" width="250"/>
 </p>
 
 ### Admin Dashboard
