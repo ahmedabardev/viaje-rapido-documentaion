@@ -68,40 +68,49 @@ A mobile app (React Native Expo) supporting both client and driver roles.
 A backend API built with Node.js, Express, and MongoDB.
 
 An admin dashboard (React + TailwindCSS) for managing rides, users, drivers, and revenue.
+
 ---
-## 🚀 Core Features
+## 🚀 Core Features  
 
-### 1. Booking & Ride Management
-- Select **pickup and drop-off locations** with an interactive map.  
-- **Fare estimation** and **ride scheduling** for future trips.  
-- Ability to **cancel rides** with proper handling for both drivers and clients.  
+### 1. Booking & Ride Management  
+- Intuitive interface to **select pickup and drop-off locations** via an interactive map.  
+- **Dynamic fare estimation** based on distance, time, and surge pricing.  
+- **Ride scheduling** for future trips with automated reminders.  
+- Flexible **cancellation system** with proper handling for both clients and drivers.  
+- Optimized **ride assignment** to match clients with the nearest available driver.  
 
-### 2. Real-time Tracking & Live Ride Status
-- **Live tracking** of drivers and passengers on the map.  
-- **Live ride status updates**: requested → accepted → in-progress → completed or cancelled.  
-- **ETA updates** and notifications for clients and drivers.  
-- **Communication** between drivers and clients during rides.  
+### 2. Real-time Tracking & Live Ride Status  
+- **GPS-powered live tracking** of drivers and passengers on the map.  
+- Instant updates for ride status transitions: **Requested → Accepted → In-Progress → Completed/Cancelled**.  
+- **ETA (Estimated Time of Arrival) updates** refreshed in real-time for transparency.  
+- **In-app driver-client communication** to ensure coordination during rides.  
 
-### 3. Chat & Communication
-- **Real-time chat** between clients, drivers, and optionally admin support.  
-- Messaging integrated seamlessly for ride updates, coordination, and support.  
+### 3. Chat & Communication  
+- Built-in **real-time chat** for clients and drivers.  
+- Supports **multimedia messaging**: text, images, voice notes, and live location sharing.  
 
-### 4. Payments
-- Support for **cash and card payments**.  
-- Integration with **Stripe** for secure and smooth transactions.  
+### 4. Payments  
+- Multiple payment options: **cash or credit/debit card**.  
+- **Secure integration with Stripe** for fast and reliable transactions.  
+- Automatic **fare calculation** and **digital receipts** for every trip.  
+- Flexible **refund and adjustment handling** for cancelled or disputed rides.  
 
-### 5. Ride History & Analytics
-- Detailed **history of past trips** for clients and drivers.  
-- **Receipts and summaries** for each completed ride.  
-- Admin dashboard provides **analytics and revenue statistics**.  
+### 5. Ride History & Analytics  
+- Clients and drivers can view a **comprehensive history of past rides**.  
+- Each ride includes **trip details, costs, receipts, and driver/client info**.  
+- Admin dashboard features **real-time analytics**: revenue reports, ride volume, cancellations, and performance metrics.  
+- Helps businesses **identify trends and optimize operations**.  
 
-### 6. Ratings & Feedback
-- Clients can **rate drivers** and provide feedback for each trip.  
-- Drivers can **rate clients** to maintain a healthy community ecosystem.  
+### 6. Ratings & Feedback  
+- Two-way **rating system**: clients rate drivers, and drivers rate clients.  
+- Feedback system helps maintain **trust, accountability, and service quality**.  
+- Admins can **monitor reviews** and take action to ensure community standards.  
 
-### 7. Notifications
-- **Push notifications** for ride confirmations, updates, cancellations, and arrivals.  
-- Alerts for **ride status changes**, driver arrivals, and payment confirmations.  
+### 7. Notifications  
+- **Push notifications** for ride confirmations, driver arrival alerts, payment confirmations, and cancellations.  
+- Real-time **status change alerts** to keep both driver and passenger informed.  
+- Configurable notification system for **promotions, offers, and reminders**.  
+
 
 ---
 
