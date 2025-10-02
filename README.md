@@ -15,9 +15,9 @@
 
 ### Admin Dashboard
 <p align="center">
-  <img src="screenshots/dash/driversTable.png" width="400"/>
-  <img src="screenshots/dash/editDriver.png" width="400"/>
-  <img src="screenshots/dash/ridesTable.png" width="400"/>
+  <img src="screenShots/dash/driversTable.png" width="400"/>
+  <img src="screenShots/dash/editDriver.png" width="400"/>
+  <img src="screenShots/dash/ridesTable.png" width="400"/>
 </p>
 **Description:**  
 Viaje Rápido is a full-stack Uber-like ride-hailing application, designed to provide a seamless and intuitive experience for both clients and drivers within a single mobile app. The app combines real-time ride management, communication, and analytics to deliver a complete mobility solution.
