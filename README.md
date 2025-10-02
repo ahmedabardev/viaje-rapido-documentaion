@@ -22,7 +22,7 @@
 
 <p align="center">
   <img src="screenShots/mobile/waitDriverResponse.jpg" width="200"/>
-  <img src="screenShots/mobile/oopsRejectAuto.jpg" width="200"/>
+  <img src="screenShots/mobile/rejected.jpg" width="200"/>
    <img src="screenShots/mobile/coversation.jpg" width="200"/>
   <img src="screenShots/mobile/chat.jpg" width="200"/>
 </p>
