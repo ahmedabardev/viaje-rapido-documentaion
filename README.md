@@ -9,22 +9,15 @@
 ### 📱 Mobile App (Client & Driver)
 
 <p align="center">
-  <img src="screenShots/mobile/welcomeClient.jpg" width="200"/>
-  <img src="screenShots/mobile/welcomeDriver.jpg" width="200"/>
-  <img src="screenShots/mobile/searchPlace.jpg" width="200"/>
+  <img src="screenShots/mobile/1.png" width="400"/>
 </p>
 
 <p align="center">
-  <img src="screenShots/mobile/selectDriver.jpg" width="200"/>
-  <img src="screenShots/mobile/bookRide.jpg" width="200"/>
-  <img src="screenShots/mobile/findRide.jpg" width="200"/>
+  <img src="screenShots/mobile/2.png" width="400"/>
 </p>
 
 <p align="center">
-  <img src="screenShots/mobile/waitDriverResponse.jpg" width="200"/>
-  <img src="screenShots/mobile/rejected.jpg" width="200"/>
-   <img src="screenShots/mobile/coversation.jpg" width="200"/>
-  <img src="screenShots/mobile/chat.jpg" width="200"/>
+   <img src="screenShots/mobile/3.png" width="400"/>
 </p>
 
 <p align="center">
