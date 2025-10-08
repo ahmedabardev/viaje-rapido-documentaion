@@ -28,7 +28,6 @@
 <img src="screenShots/mobile/5.png" width="400"/>
 </p>
 
----
 
 ### 📄 Extra Demo Screenshots (PDF)
 
