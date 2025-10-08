@@ -21,14 +21,14 @@
 </p>
 
 <p align="center">
-  <img src="screenShots/mobile/onLinePayment.jpg" width="200"/>
-  <img src="screenShots/mobile/giveFeedback.jpg" width="200"/>
+   <img src="screenShots/mobile/4.png" width="400"/>
 </p>
 
 <p align="center">
-  <img src="screenShots/mobile/historyRides.jpg" width="200"/>
+<img src="screenShots/mobile/5.png" width="400"/>
 </p>
-
+- [extra_images_1](screenShots/mobile/extra_demo_screenshots_part_1.pdf)
+- [extra_images_1](screenShots/mobile/extra_demo_screenshots_part_1.pdf)
 
 ### 🖥️ Admin Dashboard
 
