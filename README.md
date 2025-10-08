@@ -27,8 +27,19 @@
 <p align="center">
 <img src="screenShots/mobile/5.png" width="400"/>
 </p>
-- [extra_images_1](screenShots/mobile/extra_demo_screenshots_part_1.pdf)
-- [extra_images_1](screenShots/mobile/extra_demo_screenshots_part_1.pdf)
+
+---
+
+### 📄 Extra Demo Screenshots (PDF)
+
+<p align="center">
+  <a href="screenShots/mobile/extra_demo_screenshots_part_1.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📘%20Extra%20Screenshots%20Part%201-PDF-blue?style=for-the-badge" />
+  </a>
+  <a href="screenShots/mobile/extra_demo_screenshots_part_2.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📗%20Extra%20Screenshots%20Part%202-PDF-green?style=for-the-badge" />
+  </a>
+</p>
 
 ### 🖥️ Admin Dashboard
 
