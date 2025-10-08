@@ -40,6 +40,7 @@
     <img src="https://img.shields.io/badge/📗%20Extra%20Screenshots%20Part%202-PDF-green?style=for-the-badge" />
   </a>
 </p>
+<p align="center"><i>Explore more detailed app views and workflow examples in PDF format.</i></p>
 
 ### 🖥️ Admin Dashboard
 
