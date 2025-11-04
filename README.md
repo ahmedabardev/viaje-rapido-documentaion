@@ -36,27 +36,22 @@
     <img src="https://img.shields.io/badge/🎬%20Watch%20Trip%20Demo-MP4-red?style=for-the-badge" />
   </a>
 </p>
-<p align="center"><i>Watch a real recorded trip demo (MP4, ~18.6 MB).</i></p>
+
 
 ### 🖥️ Admin Dashboard
-
-<p align="center">
-  <img src="screenShots/dash/dash.png" width="400"/>
-</p>
-
 <p align="center">
   <img src="screenShots/dash/driversTable.png" width="400"/>
   <img src="screenShots/dash/editDriver.png" width="400"/>
 </p>
 
-<p align="center">
-  <img src="screenShots/dash/ridesTable.png" width="400"/>
-  <img src="screenShots/dash/rideDetails.png" width="400"/>
-</p>
+### 🎥 Admin Dashboard Demo (Video)
 
 <p align="center">
-  <img src="screenShots/dash/settings.png" width="400"/>
+  <a href="screenShots/mobile/demoAdmin.mp4" target="_blank">
+    <img src="https://img.shields.io/badge/🎬%20Watch%20Trip%20Demo-MP4-red?style=for-the-badge" />
+  </a>
 </p>
+
 
 
 ### Description  
