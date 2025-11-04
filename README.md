@@ -29,17 +29,14 @@
 </p>
 
 
-### 📄 Extra Demo Screenshots (PDF)
+### 🎥 Live Trip Demo (Video)
 
 <p align="center">
-  <a href="screenShots/mobile/extra_demo_screenshots_part_1.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📘%20Extra%20Screenshots%20Part%201-PDF-blue?style=for-the-badge" />
-  </a>
-  <a href="screenShots/mobile/extra_demo_screenshots_part_2.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📗%20Extra%20Screenshots%20Part%202-PDF-green?style=for-the-badge" />
+  <a href="screenShots/mobile/demoViaje.mp4" target="_blank">
+    <img src="https://img.shields.io/badge/🎬%20Watch%20Trip%20Demo-MP4-red?style=for-the-badge" />
   </a>
 </p>
-<p align="center"><i>Explore more detailed app views and workflow examples in PDF format.</i></p>
+<p align="center"><i>Watch a real recorded trip demo (MP4, ~18.6 MB).</i></p>
 
 ### 🖥️ Admin Dashboard
 
