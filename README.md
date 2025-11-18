@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/uc?export=download&id=1nsr9vtXJcSbr-Mm9NwmaJB8ygmkV9CyX" target="_blank">
-    <img src="https://img.shields.io/badge/🎬%20Watch%20Trip%20Demo-MP4-red?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/🎬%20Download%20Demo-MP4-red?style=for-the-badge" />
   </a>
 </p>
 
@@ -47,10 +47,11 @@
 ### 🎥 Admin Dashboard Demo (Video)
 
 <p align="center">
-  <a href="screenShots/dash/demo.mp4" target="_blank">
-    <img src="https://img.shields.io/badge/🎬%20Watch%20Dash%20Preview-MP4-red?style=for-the-badge" />
+  <a href="https://drive.google.com/uc?export=download&id=12_y0mv-XtUn6j0klVkEWLAJ3Bah24D89" target="_blank">
+    <img src="https://img.shields.io/badge/🎬%20Download%20Demo-MP4-red?style=for-the-badge" />
   </a>
 </p>
+
 
 
 
