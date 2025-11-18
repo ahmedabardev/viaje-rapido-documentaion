@@ -47,10 +47,11 @@
 ### 🎥 Admin Dashboard Demo (Video)
 
 <p align="center">
-  <a href="screenShots/dash/demo.mp4 target="_blank">
+  <a href="screenShots/dash/demo.mp4" target="_blank">
     <img src="https://img.shields.io/badge/🎬%20Watch%20Dash%20Preview-MP4-red?style=for-the-badge" />
   </a>
 </p>
+
 
 
 
